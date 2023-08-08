@@ -172,6 +172,7 @@ This shows the number of customers that left the company within an age range, Ge
 # THE DASHBOARD
 ![image](https://github.com/Hykze1/Telco-Customer-Churn-Dataset-Focused-Customer-Retention-Program/assets/100960483/2ae82ccb-4d3e-4edc-8590-5e146cbcfa16)
 
+# Thank you
 
 
 
