@@ -13,7 +13,8 @@ To predict insights from the Telco Customer Churn by which customers are retaine
 
 The dataset is a CSV file which contains a table entailing 7043 rows and 21 columns. The data was gotten from the data challenge group on telegram which was later downloaded from the Kaggle site https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-TOOL: Microsoft Excel
+TOOL: Microsoft Excel 
+https://github.com/Hykze1/Telco-Customer-Churn-Dataset-Focused-Customer-Retention-Program/blob/main/Telco-Customer-Churnv1%20(Recovered).xlsx
 
 # Exploratory Data Analysis (EDA)
 EDA techniques are applied to gain insights into the dataset, identify patterns, and understand the distribution of variables.
